@@ -1,0 +1,33 @@
+#header {
+    font-family: "Roboto", serif;
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-simply {
+    padding-bottom: 1.5em;
+}
+
+#main {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+
+#ancora {
+    padding: 1.5em;
+    margin 0;
+    text-align: start;
+}
+
+#list {
+    text-align: start;
+}
+
+.ingredients {
+    margin: 0.5em 0;
+}
